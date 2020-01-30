@@ -1,0 +1,6 @@
+C:\Users\Sathiyaseelan\source\repos\SqlCommandDemo\StoredProcedurePractice\bin\Debug\StoredProcedurePractice.exe.config
+C:\Users\Sathiyaseelan\source\repos\SqlCommandDemo\StoredProcedurePractice\bin\Debug\StoredProcedurePractice.exe
+C:\Users\Sathiyaseelan\source\repos\SqlCommandDemo\StoredProcedurePractice\bin\Debug\StoredProcedurePractice.pdb
+C:\Users\Sathiyaseelan\source\repos\SqlCommandDemo\StoredProcedurePractice\obj\Debug\StoredProcedurePractice.csprojAssemblyReference.cache
+C:\Users\Sathiyaseelan\source\repos\SqlCommandDemo\StoredProcedurePractice\obj\Debug\StoredProcedurePractice.exe
+C:\Users\Sathiyaseelan\source\repos\SqlCommandDemo\StoredProcedurePractice\obj\Debug\StoredProcedurePractice.pdb
